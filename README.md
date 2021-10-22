@@ -2,12 +2,12 @@
 
 -Intern Developer IT
 
-##About me
+## About me
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kenji-nohara/)](https://www.linkedin.com/in/kenji-nohara/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Kenjinh/)](https://github.com/Kenjinh)
 
-##Working Languages, Frameworks and Database:
+## Working Languages, Frameworks and Database:
 
 [![Kenji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenjinh&theme=dark&show_icons=true)](https://github.com/Kenjinh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenjinh&layout=compact&theme=dark)](https://github.com/Kenjinh/github-readme-stats)
