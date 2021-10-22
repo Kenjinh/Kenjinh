@@ -8,6 +8,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Kenjinh/)](https://github.com/Kenjinh)
 
 ##Working Languages, Frameworks and Database:
+
 [![Kenji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenjinh&theme=dark&show_icons=true)](https://github.com/Kenjinh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenjinh&layout=compact&theme=dark)](https://github.com/Kenjinh/github-readme-stats)
 
@@ -21,5 +22,4 @@
 <code><img height="20" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
-<code><img height="20" src=""></code>
 
