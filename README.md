@@ -1,6 +1,6 @@
 ### Hello, I'm Kenji!!
 
--Intern Developer IT
+- Python Developer
 
 ## About me
 
